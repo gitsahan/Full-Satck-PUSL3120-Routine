@@ -13,4 +13,4 @@ Create an account.
 03. Edit & delete the lists which have already been created.
 04. Add schedules (tasks) to the specific lists. (Categorizing).
 05. Edit & delete the tasks (schedules) created within each list.
-06. Refer to the tasks (schedules) & anytime.
+06. Refer to the tasks (schedules) at anytime.
