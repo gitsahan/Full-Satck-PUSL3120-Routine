@@ -1,7 +1,11 @@
 # Full-Stack-PUSL3120-Routine
 -----------------------------
 
-Developer: Sahan Karunaratne. Project Type: Individual.
+Developer: Sahan Karunaratne.
+
+Project Type: Individual.
+
+Year: 2023.
 
 Languages & Technologies Used: Angular JS, Node JS, MongoDB, Bulma CSS, JWT...
 
